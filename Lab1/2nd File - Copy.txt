@@ -1,0 +1,17 @@
+<-O->	13	0	Player	7	23
+<-O->	8	0	Opponent	0	5
+<-O->	8	0	Opponent	9	5
+<-O->	8	0	Opponent	18	5
+<-O->	8	0	Opponent	27	5
+<-O->	8	0	Opponent	36	5
+<-O->	8	0	Opponent	45	5
+<-O->	8	0	Opponent	54	5
+<-O->	8	0	Opponent	5	8
+<-O->	8	0	Opponent	15	8
+<-O->	8	0	Opponent	25	8
+<-O->	8	0	Opponent	35	8
+<-O->	8	0	Opponent	45	8
+<-O->	8	0	Opponent	55	8
+<-O->	8	0	Opponent	33	10
+<-O->	8	0	Opponent	22	10
+<-O->	8	0	Opponent	46	10

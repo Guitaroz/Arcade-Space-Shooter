@@ -1,0 +1,6 @@
+﻿  Game.cpp
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+FmodSound.obj : warning LNK4248: unresolved typeref token (0100000C) for 'FMOD_SYSTEM'; image may not run
+FmodSound.obj : warning LNK4248: unresolved typeref token (01000010) for 'FMOD_SOUND'; image may not run
+FmodSound.obj : warning LNK4248: unresolved typeref token (01000011) for 'FMOD_CHANNEL'; image may not run
+  Lab1.vcxproj -> F:\PC BACKUP\Portfolio\SpaceShooterGame\Debug\Lab1.exe
